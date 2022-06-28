@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/ShowUser/ShowUser.scss"],"names":[],"mappings":"AAAA,aACE,WAAY,CACZ,cAAe,CACf,iBAAkB","file":"main.fe3dc051.chunk.css","sourcesContent":[".user__block {\n  width: 500px;\n  position: fixed;\n  text-align: center;\n}\n"]}
